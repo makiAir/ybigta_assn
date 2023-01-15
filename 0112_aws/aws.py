@@ -1,0 +1,1 @@
+open('/home/ec2-user/hi.txt', 'w').close()
